@@ -20,7 +20,7 @@
 
 1. Склонуйте репозиторій:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/gadiim/testimonials-carousel-sales-fortuna.git
    ```
 2. Відкрийте `index.html` у браузері.
 
