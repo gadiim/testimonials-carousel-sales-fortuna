@@ -33,5 +33,5 @@
 ---
 
 **Завдання виконано згідно ТЗ.**  
-[Посилання на ТЗ](chrome-extension://gbkeegbaiigmenfmjfclcdgdpimamgkj/views/app.html)  
+[Посилання на ТЗ](frontend-test-task.txt)  
 [Посилання на макет Figma](https://www.figma.com/design/i8U9prmitB9HfZ2YuzgYhl/Sales-Fortuna-Technical-task?node-id=0-1&p=f&t=CFqlnLJdxPkYIkye-0)
